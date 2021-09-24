@@ -18,7 +18,7 @@ struct ContentView: View {
     
     var body: some View {
         VStack {
-            Text("Tickity Tac Toe")
+            Text("Tickity Tac Toe JTT")
                 .bold()
                 .foregroundColor(Color.black.opacity(0.7))
                 .padding(.bottom)
